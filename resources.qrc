@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>open-folder-outline.png</file>
+        <file>add-new-document.png</file>
+        <file>save-file-option.png</file>
+    </qresource>
+</RCC>
